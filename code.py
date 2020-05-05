@@ -86,5 +86,5 @@ def SceneCut(videopath, name):
 
     print("분할 완료")
 if __name__=="__main__":
-    SceneCut("./id_40834.mp4", "프리코네")
+    SceneCut("yourVideoPath.mp4", "VideoName")
     
